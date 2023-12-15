@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\week9reading\week9reading\bin\Debug\net6.0\week9reading.exe
+C:\Users\user\source\repos\week9reading\week9reading\bin\Debug\net6.0\week9reading.deps.json
+C:\Users\user\source\repos\week9reading\week9reading\bin\Debug\net6.0\week9reading.runtimeconfig.json
+C:\Users\user\source\repos\week9reading\week9reading\bin\Debug\net6.0\week9reading.dll
+C:\Users\user\source\repos\week9reading\week9reading\bin\Debug\net6.0\week9reading.pdb
+C:\Users\user\source\repos\week9reading\week9reading\obj\Debug\net6.0\week9reading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\week9reading\week9reading\obj\Debug\net6.0\week9reading.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\week9reading\week9reading\obj\Debug\net6.0\week9reading.AssemblyInfo.cs
+C:\Users\user\source\repos\week9reading\week9reading\obj\Debug\net6.0\week9reading.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\week9reading\week9reading\obj\Debug\net6.0\week9reading.dll
+C:\Users\user\source\repos\week9reading\week9reading\obj\Debug\net6.0\refint\week9reading.dll
+C:\Users\user\source\repos\week9reading\week9reading\obj\Debug\net6.0\week9reading.pdb
+C:\Users\user\source\repos\week9reading\week9reading\obj\Debug\net6.0\week9reading.genruntimeconfig.cache
+C:\Users\user\source\repos\week9reading\week9reading\obj\Debug\net6.0\ref\week9reading.dll
